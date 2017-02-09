@@ -1,0 +1,23 @@
+{
+  "name": "raspberry-ir-sensor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "rpi-gpio": "^0.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naffiq/raspberry-ir-sensor.git"
+  },
+  "author": "naffiq",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/naffiq/raspberry-ir-sensor/issues"
+  },
+  "homepage": "https://github.com/naffiq/raspberry-ir-sensor#readme"
+}
