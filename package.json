@@ -8,6 +8,7 @@
   },
   "devDependencies": {},
   "scripts": {
+    "start": "./home/pi/.nvm/versions/node/v6.9.4/bin/node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
